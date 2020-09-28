@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T20:33:28.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="FRNIFFAvFXKUxgRtoLmA" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-28T21:14:59.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="ZYZBRXRGceTSvg3Fps20" version="13.7.6" type="github">
   <diagram id="sXs699aBRK_yhBxhbvP2" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
           <mxGeometry x="115" y="370" width="595" height="10" as="geometry" />
         </mxCell>
         <mxCell id="B_7StSU_QWjbHnsfs_5M-26" value="ENTER PAYMENT INFO" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="690" y="540" width="150" height="70" as="geometry" />
+          <mxGeometry x="680" y="540" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="B_7StSU_QWjbHnsfs_5M-28" value="ADD/REMOVE ITEMS FROM CART" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="140" y="460" width="185" height="16.88" as="geometry" />
