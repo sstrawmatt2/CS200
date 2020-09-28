@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T18:22:14.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="jWZUdk_QJEwIXQChL5X0" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-28T20:33:28.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="FRNIFFAvFXKUxgRtoLmA" version="13.7.6" type="github">
   <diagram id="sXs699aBRK_yhBxhbvP2" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -82,11 +82,11 @@
         <mxCell id="B_7StSU_QWjbHnsfs_5M-33" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#56517e;fillColor=#d0cee2;" vertex="1" parent="1">
           <mxGeometry x="287.5" y="860" width="850" height="670" as="geometry" />
         </mxCell>
-        <mxCell id="B_7StSU_QWjbHnsfs_5M-34" value="Order Conformation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-34" value="Order Conformation" style="text;html=1;strokeColor=#ae4132;fillColor=#fad9d5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="870" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B_7StSU_QWjbHnsfs_5M-36" value="Congratulations your order was placed!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="950" width="220" height="30" as="geometry" />
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-36" value="Congratulations your order was placed!" style="text;html=1;strokeColor=#ae4132;fillColor=#fad9d5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="960" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_7StSU_QWjbHnsfs_5M-50" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="350" y="1010" width="735" height="390" as="geometry" />
@@ -141,6 +141,9 @@
         </mxCell>
         <mxCell id="B_7StSU_QWjbHnsfs_5M-54" value="ORDER TOTAL: $256.00" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="532.5" y="1360" width="315" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-55" value="Back to shopping" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;strokeColor=#ae4132;fillColor=#fad9d5;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1440" width="127" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
