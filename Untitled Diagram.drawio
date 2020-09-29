@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T01:06:02.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="LTAMszUTfJ4CanChk9FB" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-29T01:52:19.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="v-AzuEmAOgMJwSuLBp8F" version="13.7.6" type="github">
   <diagram id="sXs699aBRK_yhBxhbvP2" name="Page-1">
-    <mxGraphModel dx="1955" dy="2034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="1648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
           <mxGeometry x="15" y="540" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B_7StSU_QWjbHnsfs_5M-33" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#56517e;fillColor=#d0cee2;" vertex="1" parent="1">
-          <mxGeometry x="287.5" y="860" width="850" height="670" as="geometry" />
+          <mxGeometry x="287.5" y="860" width="850" height="870" as="geometry" />
         </mxCell>
         <mxCell id="B_7StSU_QWjbHnsfs_5M-34" value="Order Conformation" style="text;html=1;strokeColor=#ae4132;fillColor=#fad9d5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="870" width="180" height="80" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="580" y="960" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B_7StSU_QWjbHnsfs_5M-50" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1010" width="735" height="420" as="geometry" />
+          <mxGeometry x="350" y="1010" width="735" height="630" as="geometry" />
         </mxCell>
         <mxCell id="B_7StSU_QWjbHnsfs_5M-37" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#7EA6E0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="470" y="1080" width="440" height="190" as="geometry" />
@@ -131,19 +131,16 @@
           <mxGeometry x="293" width="147" height="63" as="geometry" />
         </mxCell>
         <mxCell id="B_7StSU_QWjbHnsfs_5M-51" value="ORDER DETAILS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1030" width="200" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="B_7StSU_QWjbHnsfs_5M-52" value="PAYMENT METHOD: CARD ENDING IN *********5555" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="522.5" y="1320" width="315" height="20" as="geometry" />
+          <mxGeometry x="590" y="1010" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B_7StSU_QWjbHnsfs_5M-53" value="ORDER DATE: 09/26/2020" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="532.5" y="1290" width="315" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B_7StSU_QWjbHnsfs_5M-54" value="ORDER TOTAL: $256.00" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="532.5" y="1360" width="315" height="20" as="geometry" />
+          <mxGeometry x="532.5" y="1320" width="315" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B_7StSU_QWjbHnsfs_5M-55" value="Back to shopping" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;strokeColor=#ae4132;fillColor=#fad9d5;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1440" width="127" height="60" as="geometry" />
+          <mxGeometry x="306.45" y="1650" width="127" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B_7StSU_QWjbHnsfs_5M-61" value="EAGLES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="252.24" y="90" width="48" height="20" as="geometry" />
@@ -166,9 +163,6 @@
         <mxCell id="B_7StSU_QWjbHnsfs_5M-71" value="&lt;font face=&quot;Courgette&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Courgette&quot;&gt;EAGLES&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="256.24" y="230" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="B_7StSU_QWjbHnsfs_5M-73" value="Shipping to: 1111 W Greeley, CO 80631" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="535" y="1390" width="310" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="B_7StSU_QWjbHnsfs_5M-75" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="20" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
@@ -183,6 +177,45 @@
         </mxCell>
         <mxCell id="B_7StSU_QWjbHnsfs_5M-79" value="QUANTITY" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="1050" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-81" value="Payment Method: Credit Card&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1380" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-82" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#ae4132;fillColor=#fad9d5;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1400" width="550" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-83" value="Billing Address:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="453" y="1410" width="97" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-84" value="Credit Card:&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="453" y="1520" width="97" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-85" value="Street Address" style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1410" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-86" value="City" style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1440" width="97" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-87" value="State/Province" style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="723" y="1440" width="97" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-88" value="Postal Code" style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="847.5" y="1440" width="97" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="B_7StSU_QWjbHnsfs_5M-86" target="B_7StSU_QWjbHnsfs_5M-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-90" value="Card Expiration (mm/yyyy)" style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="626" y="1590" width="155.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-91" value="Cardholder&#39;s Name:" style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="626" y="1530" width="144" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-92" value="Card Number:" style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="626" y="1560" width="134" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-93" value="Place Order" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;strokeColor=#ae4132;fillColor=#fad9d5;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1650" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
