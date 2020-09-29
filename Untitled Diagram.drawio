@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T01:52:19.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="v-AzuEmAOgMJwSuLBp8F" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-29T01:54:06.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="gJCGzX75NoiWvMymgrLs" version="13.7.6" type="github">
   <diagram id="sXs699aBRK_yhBxhbvP2" name="Page-1">
     <mxGraphModel dx="981" dy="1648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -133,11 +133,11 @@
         <mxCell id="B_7StSU_QWjbHnsfs_5M-51" value="ORDER DETAILS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="1010" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="B_7StSU_QWjbHnsfs_5M-53" value="ORDER DATE: 09/26/2020" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-53" value="ORDER DATE: 09/26/2020" style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="532.5" y="1290" width="315" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="B_7StSU_QWjbHnsfs_5M-54" value="ORDER TOTAL: $256.00" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="532.5" y="1320" width="315" height="20" as="geometry" />
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-54" value="ORDER TOTAL: $256.00" style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="1330" width="315" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B_7StSU_QWjbHnsfs_5M-55" value="Back to shopping" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;strokeColor=#ae4132;fillColor=#fad9d5;" vertex="1" parent="1">
           <mxGeometry x="306.45" y="1650" width="127" height="60" as="geometry" />
@@ -216,6 +216,9 @@
         </mxCell>
         <mxCell id="B_7StSU_QWjbHnsfs_5M-93" value="Place Order" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;strokeColor=#ae4132;fillColor=#fad9d5;" vertex="1" parent="1">
           <mxGeometry x="1030" y="1650" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-94" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1500" width="550" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
