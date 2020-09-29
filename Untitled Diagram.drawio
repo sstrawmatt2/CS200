@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T00:39:12.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="EFsp6ggqZG5LLeU6JAI7" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-29T00:46:29.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Gc9thUkV3_VfFj5-qiop" version="13.7.6" type="github">
   <diagram id="sXs699aBRK_yhBxhbvP2" name="Page-1">
-    <mxGraphModel dx="702" dy="1893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="2034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,6 +168,21 @@
         </mxCell>
         <mxCell id="B_7StSU_QWjbHnsfs_5M-73" value="Shipping to: 1111 W Greeley, CO 80631" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="535" y="1390" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-75" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-76" value="Company Logo" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutDoubleArrow;dy=10;dx=20;notch=24;arrowHead=10;strokeColor=#7EA6E0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-115" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-77" value="ITEM&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20face%3D%26quot%3BCourgette%26quot%3B%20data-font-src%3D%26quot%3Bhttps%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCourgette%26quot%3B%26gt%3BEAGLES%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22256.24%22%20y%3D%2260%22%20width%3D%2240%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="524" y="1050" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-78" value="PRICE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1050" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B_7StSU_QWjbHnsfs_5M-79" value="QUANTITY" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1050" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
